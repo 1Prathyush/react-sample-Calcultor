@@ -1,0 +1,26 @@
+td{
+    border: 1px solid black;
+    padding: 15px;
+}
+.ans{
+    display: flex;
+}
+
+table{
+ position: absolute;
+  top: 100px;
+  width:max-content;
+  height: max-content;
+    left:40.75%;
+
+}
+@media (max-width:806px){
+
+    table{
+        position: absolute;
+         top: 100px;
+         
+         left:65px;
+       
+       }
+}
